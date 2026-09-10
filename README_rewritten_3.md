@@ -41,7 +41,7 @@ The project was undertaken to:
 
 * **Oracle VirtualBox**
 * **Kali Linux**
-* **WinRAR** — Used for extracting files
+* **7Zip/WinRAR** — Used for extracting files
 
 ---
 
@@ -60,7 +60,7 @@ The laboratory was established through the following stages:
 
 ## Lab Setup Snapshots
 
-![Kali Linux](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/1_screenshot_Kali_Linux.png)
+![Kali Linux](https://github.com/adionpluto/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/screenshot-kali-linux.png)
 
 ![Network Settings](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/2_screenshot_Network_settings.png)
 
@@ -82,16 +82,16 @@ Unauthorized access, scanning, exploitation, or testing of systems is prohibited
 
 * **WinRAR:** [https://www.win-rar.com/download.html](https://www.win-rar.com/download.html?&L=0)
 * **VirtualBox:** https://virtualbox.org/wiki/Downloads
-* **Kali Linux:** https://kali.org/get-kali
+* **Kali Linux:** https://kali.org/get-kali (2026.2)
 
 ---
 
 # Author
 
-**Rohith K R**  
+**Aditya Choubey*  
 **Computer Science Student**
 
-LinkedIn: [linkedin.com/in/rohith-k-r-55236a30b](https://linkedin.com/in/rohith-k-r-55236a30b)
+[LinkedIn](https://www.linkedin.com/in/adityachby/) 
 
 ---
 
