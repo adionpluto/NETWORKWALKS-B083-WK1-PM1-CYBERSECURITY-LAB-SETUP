@@ -77,6 +77,40 @@ Internet Connectivity Verification:
 
 ---
 
+# What I Learned
+
+This project provided practical experience in building a virtualized environment for cybersecurity training and testing.
+
+The main concepts covered were:
+
+### 1. NAT and NAT Network
+
+A standard NAT setup and a NAT Network provide different networking capabilities.
+
+A NAT Network permits multiple virtual machines connected to that network to communicate with one another while also using network address translation for external connectivity.
+
+This makes NAT Network configuration well suited to multi-machine cybersecurity labs.
+
+### 2. Virtual Machine Networking
+
+I learned how VirtualBox network adapters connect virtual machines to different network configurations and how these settings influence communication between virtual systems.
+
+### 3. Static IP Configuration
+
+I gained experience configuring and checking IPv4 addresses, subnet masks, gateways, and DNS settings in Kali Linux.
+
+### 4. VM Snapshots
+
+A clean snapshot should be created **before carrying out risky or experimental activities**.
+
+Having this baseline provides a reliable recovery point for future cybersecurity exercises.
+
+### 5. Documentation
+
+I learned that keeping a record of commands, network settings, screenshots, encountered issues, and their solutions is an important part of maintaining a professional cybersecurity project.
+
+---
+
 ## Security & Ethical Use
 
 This laboratory is intended exclusively for **educational activities and authorized security testing**.
