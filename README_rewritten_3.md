@@ -50,9 +50,9 @@ The project was undertaken to:
 The laboratory was established through the following stages:
 
 * **Step 1: Install 7-Zip/WinRAR**
-* **Step 2: Install VirtualBox**
+* **Step 2: Install [VirtualBox](https://www.virtualbox.org/)**
 * **Step 3: Configure a NAT Network**
-* **Step 4: Import Kali Linux**
+* **Step 4: Import [Kali Linux(2026.2}](https://www.kali.org/get-kali/#kali-installer-images)**
 * **Step 5: Set up the Kali Linux Network**
 * **Step 6: Create a VM Snapshot**
 
