@@ -60,13 +60,20 @@ The laboratory was established through the following stages:
 
 ## Lab Setup Snapshots
 
+Kali Linux:
 ![Kali Linux](https://github.com/adionpluto/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/screenshot-kali-linux.png)
 
-![Network Settings](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/2_screenshot_Network_settings.png)
+Network Settings:
+![Network Settings](https://github.com/adionpluto/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/screenshot-kali-network-settings.png)
 
-![Terminal](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/3_screenshot_Terminal.png)
+NAT Setup:
+![Nat](https://github.com/adionpluto/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/screenshot-natnetwork.png)
 
-![VirtualBox Snapshot](https://github.com/rohithkr24/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a930d5cf0b7bfc738a67509eb4af4a26e4c613b/4_screenshot_VirtualBox_snapshot.png)
+Snapshot:
+![VirtualBox Snapshot](https://github.com/adionpluto/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/screenshot-snapshot.png)
+
+Internet Connectivity Verification:
+![Internet](https://github.com/adionpluto/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/screenshot-internet-connectivity.png)
 
 ---
 
@@ -88,7 +95,7 @@ Unauthorized access, scanning, exploitation, or testing of systems is prohibited
 
 # Author
 
-**Aditya Choubey*  
+*Aditya Choubey*  
 **Computer Science Student**
 
 [LinkedIn](https://www.linkedin.com/in/adityachby/) 
